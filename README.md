@@ -1,16 +1,14 @@
-## Hi there 👋
+## Aleena Mubashar
+BS in Computer Science, COMSATS University Islamabad
+Proficient in Java, Object-Oriented Programming 
+Interested in Full Stack Developement, Responsive Web Design and Frontend Mechanics (UI/UX)
 
-<!--
-**mew1allison/mew1allison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+Java Java Swing 
 
-Here are some ideas to get you started:
+## Current Activities
+Hosting a 21-Day Open Source Project Event : GitNCommit UniVerse Lite (University Campus Manager in Java)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
